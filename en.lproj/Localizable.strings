@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  GoldRush
+
+  Created by Jorge Jordán Arenas on 06/12/11.
+  Copyright (c) 2011 InsanePlatypusGames. All rights reserved.
+*/
+"Connection_error" = "Connection error";
+"Try_again_later" = "Please, try again later";
+"Loading" = "Loading animals";
